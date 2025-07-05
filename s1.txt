@@ -1,2 +1,5 @@
 i am in a directory s1 file
 
+i changed my file
+....
+
