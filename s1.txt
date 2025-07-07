@@ -2,4 +2,5 @@ i am in a directory s1 file
 
 i changed my file
 ....
-
+i am in AUTH 
+I am going to push AUTH file to git hub
