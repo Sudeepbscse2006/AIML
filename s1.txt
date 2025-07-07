@@ -2,4 +2,4 @@ i am in a directory s1 file
 
 i changed my file
 ....
-
+i am going to push the file to git hub
